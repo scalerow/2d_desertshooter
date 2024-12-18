@@ -1,2 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<settings><filename>config.xml</filename><fullscreen>false</fullscreen><sound>false</sound><highscores><highscore>5150</highscore><highscore>4880</highscore><highscore>4510</highscore><highscore>4100</highscore><highscore>3000</highscore></highscores><playerdata><0><playerId>0</playerId><currentLevel>2</currentLevel><health>150</health><playerName>TEST</playerName><lastSaved>04/27/23 14:20:29</lastSaved></0><4><playerId>4</playerId><currentLevel>1</currentLevel><health>150</health><playerName>JAFFA</playerName><lastSaved>05/21/23 00:49:42</lastSaved></4><8><playerId>8</playerId><currentLevel>2</currentLevel><health>150</health><playerName>JADA</playerName><lastSaved>05/21/23 01:20:29</lastSaved></8><6><playerId>6</playerId><currentLevel>2</currentLevel><health>150</health><playerName>ssss</playerName><lastSaved>05/21/23 00:52:48</lastSaved></6><7><playerId>7</playerId><currentLevel>2</currentLevel><health>150</health><playerName>KKKK</playerName><lastSaved>05/21/23 01:00:18</lastSaved></7></playerdata></settings>
+<settings>
+    
+    
+    
+    
+    
+<filename>config.xml</filename><fullscreen>false</fullscreen><sound>false</sound><highscores>
+        
+        
+        
+        
+        
+    <highscore>5150</highscore><highscore>4880</highscore><highscore>4510</highscore><highscore>4100</highscore><highscore>3000</highscore></highscores><playerdata><17><playerId>17</playerId><currentLevel>1</currentLevel><health>150</health><playerName>KILLER</playerName><lastSaved>09/30/24 15:13:38</lastSaved></17><12><playerId>12</playerId><currentLevel>1</currentLevel><health>150</health><playerName>JAFFA</playerName><lastSaved>12/20/23 17:05:20</lastSaved></12><13><playerId>13</playerId><currentLevel>1</currentLevel><health>150</health><playerName/><lastSaved>12/20/23 17:15:30</lastSaved></13><15><playerId>15</playerId><currentLevel>1</currentLevel><health>150</health><playerName>JAFFA</playerName><lastSaved>02/22/24 21:08:23</lastSaved></15><16><playerId>16</playerId><currentLevel>1</currentLevel><health>150</health><playerName>TEST</playerName><lastSaved>02/22/24 21:09:03</lastSaved></16></playerdata></settings>
